@@ -1,7 +1,5 @@
 # DoomFire
 
-I used this demonstration [video on YouTube](https://www.youtube.com/watch?v=HCjDjsHPOco) as a study base.
-
 The fire render is done through the GUI.
 
 ![image 1](https://github.com/BrunoS3D/DoomFire/blob/master/images/sample1.gif)
@@ -11,3 +9,7 @@ The fire render is done through the GUI.
 ![image 3](https://github.com/BrunoS3D/DoomFire/blob/master/images/sample3.gif)
 
 ![image 4](https://github.com/BrunoS3D/DoomFire/blob/master/images/sample4.gif)
+
+### Other References:
+I used this demonstration [video on YouTube](https://www.youtube.com/watch?v=HCjDjsHPOco) as a study base.
+https://github.com/filipedeschamps/doom-fire-algorithm

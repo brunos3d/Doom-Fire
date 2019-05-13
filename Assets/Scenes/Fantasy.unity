@@ -179,10 +179,10 @@ MonoBehaviour:
     m_Mode: 0
     m_NumColorKeys: 4
     m_NumAlphaKeys: 2
-  texture: {fileID: 2800000, guid: cd813df36543c9d47bc357769be0c658, type: 3}
-  size: 50
+  texture: {fileID: 2800000, guid: 5b9a2b974a3a54c4f9fbcbf5845bf225, type: 3}
+  size: 15
   tileSize: 10
-  offset: {x: -20, y: -20}
+  offset: {x: 0, y: 0}
   fireData: []
 --- !u!4 &278077625
 Transform:

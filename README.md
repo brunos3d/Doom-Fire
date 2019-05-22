@@ -1,4 +1,4 @@
-# DoomFire
+# Doom-Fire
 
 The fire render is done through the GUI.
 
